@@ -1,2 +1,13 @@
 # Ping_pong_game
-2 player ping pong game using turtle library of python.
+This is a simple ping pong game created using the turtle library present in python.
+The game can be played by 2 players at the same time, the keyboard used should be same.
+
+Language used -
+Python
+
+Library used -
+Turtle
+
+
+
+By - Utkarsh Dobhal
